@@ -22,8 +22,8 @@ We introduce a public, hand-collected organizational-structure database covering
 - Motivation: Public provision of a large hand-collected dataset on top-management team roles and hierarchy to enable organization-design/strategy research
 
 ## Downloads
-- [CSV (master_SP500_TMT.csv)]({{ "/data/master_SP500_TMT.csv" | relative_url }}){: .btn }
-- [Stata (.dta)]({{ "/data/master_SP500_TMT.dta" | relative_url }}){: .btn }
+- [CSV (master_SP500_TMT.csv)](https://github.com/HosungKim48/prototypewebsite/releases/download/v0.1/master_SP500_TMT.csv){: .btn }
+- [Stata (.dta)](https://github.com/HosungKim48/prototypewebsite/releases/download/v0.1/master_SP500_TMT.dta){: .btn }
 
 ## Quick preview
 <div class="table-wrap">
