@@ -1,0 +1,17 @@
+---
+---
+
+/* Override Minima SCSS variables here */
+$brand-color: #0d6efd;            // links & accents
+$header-bg-color: #ffffff;
+$footer-bg-color: #ffffff;
+$content-width: 980px;            // page width
+$spacing-unit: 24px;
+$base-font-family: "Inter", system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+
+/* Import the theme AFTER your overrides */
+@import "minima";
+
+/* Optional: post-theme custom rules */
+.hero { border-radius: 16px; }
+.nav a { font-weight: 600; }
