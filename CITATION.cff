@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this database or site, please cite it as below."
+title: "Public Org-Structure Database"
+authors:
+  - family-names: "LastName"
+    given-names: "FirstName"
+version: "0.1.0"
+date-released: "2025-08-13"
+repository-code: "https://github.com/<user>/<repo>"
