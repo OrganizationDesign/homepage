@@ -9,9 +9,9 @@ permalink: /pages/codebook
 <div class="table-wrap">
   <table id="codebookTable"></table>
 </div>
-
 <script>
 document.addEventListener('DOMContentLoaded', function () {
   renderCSVTable('{{ "/data/codebook.csv" | relative_url }}', 'codebookTable');
 });
 </script>
+
