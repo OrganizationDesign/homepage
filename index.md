@@ -10,9 +10,10 @@ title: Home
   </p>
   <p>
     <a class="btn solid" href="{{ '/data/' | relative_url }}">Browse data</a>
-    <a class="btn" href="{{ '/samples/' | relative_url }}">Sample files</a>
   </p>
 </div>
+
+
 
 ## About
 We introduce a public, hand-collected organizational-structure database covering 521 S&P 500 firms (1993–2020) with 161,028 executive-firm-year observations across 11,658 firm-years. Executive lists were manually extracted from annual reports, 10-K filings, and DEF 14A proxy statements, then titles were categorized into six managerial role groups and twelve hierarchical levels using fine-tuned large language models. The data are linkable to standard sources via CUSIP, GVKEY, and ticker, enabling longitudinal and cross-industry research on top-management team composition and firm structure.
