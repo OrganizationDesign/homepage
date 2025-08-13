@@ -5,5 +5,7 @@
 </div>
 
 <script>
-renderCSVTable('{{ "/data/codebook.csv" | relative_url }}', 'codebookTable');
+document.addEventListener('DOMContentLoaded', function () {
+  renderCSVTable('{{ "/data/codebook.csv" | relative_url }}', 'codebookTable');
+});
 </script>
