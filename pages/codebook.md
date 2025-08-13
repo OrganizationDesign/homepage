@@ -5,7 +5,6 @@ permalink: /pages/codebook
 ---
 
 # Codebook
-
 <div class="table-wrap">
   <table id="codebookTable"></table>
 </div>
@@ -14,4 +13,3 @@ document.addEventListener('DOMContentLoaded', function () {
   renderCSVTable('{{ "/data/codebook.csv" | relative_url }}', 'codebookTable');
 });
 </script>
-
