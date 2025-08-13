@@ -1,9 +1,4 @@
 # Public Org-Structure Database (Prototype)
+A public, hand-collected organizational-structure dataset covering **521 S&P 500 firms (1993-2020) with 161,028 executive-firm-year observations across 11,658 firm-years.** Executive rosters are extracted from **Annual Reports, 10-K, and DEF 14A** and harmonized into **role groups**and **hierarchcial levels.** Identifiers include **CUSIP, GVKEY, and ticker.**
 
-This repo hosts a static website (GitHub Pages) for a research database.
-
-## Quick start
-1. Create a new GitHub repo and push these files.
-2. In **Settings → Pages**, set Source to `Deploy from a branch` and select `main` and root (`/`) or `/docs` if you move files.
-3. Update `_config.yml` (title, url, baseurl) and the content in `index.md` and `pages/*`.
-4. Place approved public data files in `/data`. Put sample files in `/samples`.
+[Live site](https://HosungKim48.github.io/prototypewebsite/)
