@@ -5,3 +5,5 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+url: "https://HosungKim48.github.io"
+baseurl: "/prototypewebsite"
