@@ -1,3 +1,9 @@
+---
+layout: default
+title: Codebook
+permalink: /pages/codebook
+---
+
 # Codebook
 
 <div class="table-wrap">
