@@ -7,3 +7,6 @@ plugins:
   - jekyll-seo-tag
 url: "https://HosungKim48.github.io"
 baseurl: "/prototypewebsite"
+owner_name: "John Eklund"
+license_url: "https://creativecommons.org/licenses/by-nc/4.0/"
+

@@ -19,6 +19,9 @@
           <a href="{{ '/pages/methods' | relative_url }}">Methods</a>
           <a href="{{ '/pages/how-to-use' | relative_url }}">How to Use</a>
           <a href="{{ '/pages/contribute' | relative_url }}">Contribute</a>
+          <a href="{{ '/pages/citations' | relative_url }}">Citations</a>
+          <a href="{{ '/pages/subscribe' | relative_url }}">Subscribe</a>
+          <a href="{{ '/pages/terms' | relative_url }}">Terms</a>
         </nav>
       </div>
     </header>
@@ -29,7 +32,14 @@
     </main>
     <footer class="site-footer">
       <div class="wrapper">
-        <p>© {{ site.title }} — Built with GitHub Pages.</p>
+        <p class="muted">
+          <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+          © {{ site.time | date: "%Y" }} by {{ site.owner_name }} is licensed under
+          <a rel="license" href="{{ site.license_url }}">CC BY-NC 4.0</a>
+          <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="CC" style="height:1em; margin-left:.35em;">
+          <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="BY" style="height:1em; margin-left:.2em;">
+          <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="NC" style="height:1em; margin-left:.2em;">
+        </p>
       </div>
     </footer>
     <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
