@@ -27,7 +27,10 @@ We introduce a public, hand-collected organizational-structure database covering
 - [CSV (master_SP500_TMT.csv)]({{ "/data/master_SP500_TMT.csv" | absolute_url }}){: .btn download="master_SP500_TMT.csv" type="text/csv" }
 - [Stata (.dta)]({{ "/data/master_SP500_TMT.dta" | absolute_url }}){: .btn download="master_SP500_TMT.dta" }
 
-**License:** Data are released under **CC BY-NC 4.0**. See the [LICENSE]({{ '/LICENSE' | relative_url }}) file and our [Terms & Disclaimer]({{ '/pages/terms' | relative_url }}).
+**License:** Data are released under **CC BY-NC 4.0**.
+See the [LICENSE]({{ '/LICENSE' | absolute_url }}) file and our
+[Terms & Disclaimer]({{ '/pages/terms' | relative_url }}).
+
 
 
 
