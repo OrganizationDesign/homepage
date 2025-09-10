@@ -21,7 +21,21 @@ We introduce a public, hand-collected organizational-structure database covering
 - Sources: 10-K, DEF 14A (proxy statements), Annual Reports  
 - Motivation: Public provision of a large hand-collected dataset on top-management team roles and hierarchy to enable organization-design/strategy research
 
-> **Disclaimer.** The database is provided **“as is”** and **may contain errors**. The maintainers and contributors **do not make any warranties** (including accuracy or fitness for a particular purpose) and **bear no responsibility** for how others use the data or for outcomes of any analyses. **Use at your own risk.** See our full [Terms & Disclaimer]({{ '/pages/terms' | relative_url }}).
+> *This database is freely available and provided for general informational, educational, and research purposes only.*
+
+> *This database is provided “as is” and may contain errors. Errors naturally occur in the research process and, for this database, can come from sources such as:*
+> 
+> *• Incorrect manual entry of data*  
+> *• Revisions of financial statements not captured in the database*  
+> *• LLM models incorrectly coding roles into different categories*  
+> 
+> *We have endeavored to limit these errors but recognize the database is not error free.*
+
+> *To the fullest extent permitted by law, the maintainers and contributors disclaim all warranties, whether express or implied (including but not limited to accuracy, completeness, merchantability, fitness for a particular purpose, and non-infringement). We will not be liable for any claim, loss, or damages arising from use of or reliance on the data. Users assume all risk.*
+
+> *Public use or distribution of a substantial portion or derivative work from the database requires clear acknowledgment of **{{ site.ack_source | default: "XXXX" }}** as the source.*
+
+> *When the paper is published we will give the full cite to fill in **{{ site.citation_full | default: "XXX" }}**.*
 
 ## Downloads
 - [CSV (master_SP500_TMT.csv)]({{ "/data/master_SP500_TMT.csv" | absolute_url }}){: .btn download="master_SP500_TMT.csv" type="text/csv" }
