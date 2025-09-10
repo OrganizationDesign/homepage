@@ -35,8 +35,6 @@ We introduce a public, hand-collected organizational-structure database covering
 
 > *Public use or distribution of a substantial portion or derivative work from the database requires clear acknowledgment of **{{ site.ack_source | default: "XXXX" }}** as the source.*
 
-> *When the paper is published we will give the full cite to fill in **{{ site.citation_full | default: "XXX" }}**.*
-
 ## Downloads
 - [CSV (master_SP500_TMT.csv)]({{ "/data/master_SP500_TMT.csv" | absolute_url }}){: .btn download="master_SP500_TMT.csv" type="text/csv" }
 - [Stata (.dta)]({{ "/data/master_SP500_TMT.dta" | absolute_url }}){: .btn download="master_SP500_TMT.dta" }
