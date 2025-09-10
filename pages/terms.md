@@ -20,6 +20,4 @@ permalink: /pages/terms
 
 *Public use or distribution of a substantial portion or derivative work from the database requires clear acknowledgment of **{{ site.ack_source | default: "XXXX" }}** as the source.*
 
-*When the paper is published we will give the full cite to fill in **{{ site.citation_full | default: "XXX" }}**.*
-
 **License.** Data are released under **CC BY-NC 4.0**. See the [LICENSE]({{ '/LICENSE' | relative_url }}) and the Creative Commons [summary](https://creativecommons.org/licenses/by-nc/4.0/) / [legal code](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en).
