@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+<base href="/OrganizationDesign/prototypewebsite/">
 ---
 
 <div class="hero">
