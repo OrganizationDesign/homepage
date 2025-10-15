@@ -3,4 +3,4 @@ A public, hand-collected organizational-structure dataset covering **521 S&P 500
 
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-[Live site](https://OrganizationDesign.github.io/Organization_Design_Website/)
+[Live site](https://OrganizationDesign.github.io/prototypewebsite/)
