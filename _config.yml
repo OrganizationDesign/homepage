@@ -6,7 +6,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 url: "https://OrganizationDesign.github.io"
-baseurl: "/Organization_Design_Website"
+baseurl: "/prototypewebsite"
 owner_name: "John Eklund"
 license_url: "https://creativecommons.org/licenses/by-nc/4.0/"
 
