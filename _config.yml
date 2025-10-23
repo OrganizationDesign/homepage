@@ -1,12 +1,12 @@
 title: Public Org-Structure Database
-description: Prototype website for a public research database (GitHub Pages)
+description: Website for a public research database (GitHub Pages)
 theme: minima
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 url: "https://OrganizationDesign.github.io"
-baseurl: "/prototypewebsite"
+baseurl: "/homepage"
 owner_name: "John Eklund"
 license_url: "https://creativecommons.org/licenses/by-nc/4.0/"
 
