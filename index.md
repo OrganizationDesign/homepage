@@ -14,9 +14,9 @@ title: Home
 </div>
 
 ## About
-We introduce a public, hand-collected organizational-structure database covering 521 S&P 500 firms (1993–2020) with 161,028 executive-firm-year observations across 11,658 firm-years. Executive lists were manually extracted from annual reports, 10-K filings, and DEF 14A proxy statements, then titles were categorized into six managerial role groups and twelve hierarchical levels using fine-tuned large language models. The data are linkable to standard sources via CUSIP, GVKEY, and ticker, enabling longitudinal and cross-industry research on top-management team composition and firm structure.
+We introduce a public, hand-collected organizational-structure database covering 612 S&P 500 firms (1993–2020) with 198,221 executive-firm-year observations across 13,844 firm-years. Executive lists were manually extracted from annual reports, 10-K filings, and DEF 14A proxy statements, then titles were categorized into six managerial role groups and twelve hierarchical levels using fine-tuned large language models. The data are linkable to standard sources via CUSIP, GVKEY, and ticker, enabling longitudinal and cross-industry research on top-management team composition and firm structure.
 
-- Coverage: **1993–2020**, **521 firms**, **11,658 firm-years**, **161,028 executive-firm-year observations**  
+- Coverage: **1993–2020**, **612 firms**, **13,844 firm-years**, **198,221 executive-firm-year observations**  
 - Identifiers: `GVKEY`, `CUSIP`, `ticker`  
 - Sources: 10-K, DEF 14A (proxy statements), Annual Reports  
 - Motivation: Public provision of a large hand-collected dataset on top-management team roles and hierarchy to enable organization-design/strategy research
