@@ -1,0 +1,1 @@
+data/master_SP500_TMT.dta filter=lfs diff=lfs merge=lfs -text
