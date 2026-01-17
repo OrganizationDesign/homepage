@@ -41,6 +41,8 @@ You can read the accompanying paper here: [https://sms.onlinelibrary.wiley.com/d
 ## Downloads
 - [CSV (master_SP500_TMT.csv)]({{ "/data/master_SP500_TMT.csv" | absolute_url }}){: .btn download="master_SP500_TMT.csv" type="text/csv" }
 - [Stata (.dta)]({{ "/data/master_SP500_TMT.dta" | absolute_url }}){: .btn download="master_SP500_TMT.dta" }
+If you experience any issues downloading the Stata file via the button above, you may alternatively access the file directly through the following Google Drive link:  
+[https://drive.google.com/file/d/1jAsBSjGvzd57moRROf7WVisY0-JWDk4Z/view?usp=drive_link](https://drive.google.com/file/d/1jAsBSjGvzd57moRROf7WVisY0-JWDk4Z/view?usp=drive_link)
 
 **License:** Data are released under **CC BY-NC 4.0**.
 See the [LICENSE]({{ '/LICENSE' | absolute_url }}) file and our
