@@ -40,7 +40,7 @@ You can read the accompanying paper here: [https://sms.onlinelibrary.wiley.com/d
 
 ## Downloads
 - [CSV (master_SP500_TMT.csv)]({{ "/data/master_SP500_TMT.csv" | absolute_url }}){: .btn download="master_SP500_TMT.csv" type="text/csv" }
-- [Stata (.dta)](https://drive.google.com/file/d/1jAsBSjGvzd57moRROf7WVisY0-JWDk4Z/view?usp=drive_link){: .btn }
+- [Stata (.dta)](https://github.com/HosungKim48/YOUR_REPO/releases/download/v1.0/20251027_612.firms.database.to.2020.1.dta){: .btn }
   
 **License:** Data are released under **CC BY-NC 4.0**.
 See the [LICENSE]({{ '/LICENSE' | absolute_url }}) file and our
