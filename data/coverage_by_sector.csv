@@ -1,12 +1,12 @@
 Sector,GICS Code,# Observations,# Firms,# Firm-years,Obs./frm. year
-Energy,10,13423,40,978,13.7
-Materials,15,16771,35,809,20.7
-Industrials,20,23811,64,1635,14.6
-Consumer Discretionary,25,26697,86,2014,13.3
-Consumer Staples,30,20291,43,1024,19.8
-Health Care,35,20126,69,1471,13.7
-Financials,40,31284,99,2120,14.8
-Information Technology,45,18562,94,1933,9.6
-Communication Services,50,5825,29,592,9.8
-Utilities,55,14432,37,869,16.6
-Real Estate,60,6999,16,399,17.5
+Energy,10,14333,40,1069,13.4
+Materials,15,18029,35,893,20.2
+Industrials,20,26477,64,1840,14.4
+Consumer Discretionary,25,29057,86,2231,13.0
+Consumer Staples,30,21792,43,1132,19.3
+Health Care,35,21723,69,1604,13.5
+Financials,40,34854,99,2360,14.8
+Information Technology,45,20190,94,2119,9.5
+Communication Services,50,6303,29,653,9.7
+Utilities,55,15447,37,957,16.1
+Real Estate,60,7813,16,459,17.0
