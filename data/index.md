@@ -18,6 +18,13 @@ permalink: /data/
          type="application/octet-stream">
          Stata (.dta)
       </a>
+    {% elsif f.extname == ".xlsx" %}
+      <a class="btn"
+         href="{{ f.path | relative_url }}"
+         download="{{ f.name }}"
+         type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet">
+         Excel (.xlsx)
+      </a>
     {% else %}
       <a class="btn"
          href="{{ f.path | relative_url }}"
