@@ -20,8 +20,8 @@ permalink: /data/
       </a>
     {% elsif f.extname == ".xlsx" %}
       <a class="btn"
-         href="{{ f.path | relative_url }}"
-         download="{{ f.name }}"
+        href="https://github.com/OrganizationDesign/homepage/releases/download/v20260721/20260721_OD_Database_1993_2024b.xlsx"
+        download="20260721_OD_Database_1993_2024b.xlsx"
          type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet">
          Excel (.xlsx)
       </a>

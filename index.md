@@ -39,7 +39,7 @@ The dataset is larger than the dataset used in the accompanying Strategic Manage
 You can read the accompanying paper here: [https://sms.onlinelibrary.wiley.com/doi/10.1002/smj.70029](https://sms.onlinelibrary.wiley.com/doi/10.1002/smj.70029)
 
 ## Downloads
-- [XLSX (20260721_OD_Database_1993_2024.xlsx)]({{ "/data/20260721_OD_Database_1993_2024.xlsx" | absolute_url }}){: .btn download="20260721_OD_Database_1993_2024.xlsx" type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" }
+- [XLSX (20260721_OD_Database_1993_2024b.xlsx)](https://github.com/OrganizationDesign/homepage/releases/download/v20260721/20260721_OD_Database_1993_2024b.xlsx){: .btn download="20260721_OD_Database_1993_2024b.xlsx" type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" }
 - [Stata (.dta)](https://github.com/OrganizationDesign/homepage/releases/download/v20260721/20260721_OD_Database_1993_2024.dta){: .btn download="20260721_OD_Database_1993_2024.dta" type="application/octet-stream" }
 
 > **Note:** If downloading .xlsx file to Stata use `bindquote(strict)` option
