@@ -40,7 +40,7 @@ You can read the accompanying paper here: [https://sms.onlinelibrary.wiley.com/d
 
 ## Downloads
 - [CSV (20260721_OD_Database_1993_2024.csv)]({{ "/data/20260721_OD_Database_1993_2024.csv" | absolute_url }}){: .btn download="20260721_OD_Database_1993_2024.csv" type="text/csv" }
-- [Stata (.dta)](https://github.com/OrganizationDesign/homepage/releases/download/v20260721/20260721_OD_Database_1993_2024.dta){: .btn download="20260721_OD_Database_1993_2024.dta" }
+- [Stata (.dta)](https://github.com/OrganizationDesign/homepage/data/20260721_OD_Database_1993_2024.dta){: .btn download="20260721_OD_Database_1993_2024.dta" }
 
 > **Note:** If downloading .csv file to Stata use `bindquote(strict)` option
   
