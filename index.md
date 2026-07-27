@@ -6,7 +6,7 @@ title: Home
 <div class="hero">
   <h1>Public Org-Structure Database</h1>
   <p>
-    This prototype site hosts documentation and (optionally) public snapshots of a research database on senior management team structure. Use the downloads below or browse the navigation for the codebook, coverage, and methods.
+    This prototype site hosts documentation and (optionally) public snapshots of a research database on senior management team structure. Use the downloads below or browse the navigation for the complete documentation.
   </p>
   <p>
     <a class="btn solid" href="{{ '/data/' | relative_url }}">Browse data</a>
@@ -14,7 +14,7 @@ title: Home
 </div>
 
 ## About
-We introduce a public, hand-collected organizational-structure database covering 612 S&P 500 firms (1993–2024) with 216,018 executive-firm-year observations across 15,317 firm-years. Executive lists were manually extracted from annual reports, 10-K filings, and DEF 14A proxy statements, then titles were categorized into six managerial role groups and twelve hierarchical levels using fine-tuned large language models. The data are linkable to standard sources via CUSIP, GVKEY, and ticker, enabling longitudinal and cross-industry research on top-management team composition and firm structure.
+We introduce a public, hand-collected organizational-structure database covering 612 S&P 500 firms (1993–2024) with 216,018 executive-firm-year observations across 15,317 firm-years. Executive lists are compiled from annual SEC filings and company reports and standardized into comparable role categories over time.
 
 - Coverage: **1993–2024**, **612 firms**, **15,317 firm-years**, **216,018 executive-firm-year observations**  
 - Identifiers: `GVKEY`, `CUSIP`, `ticker`  
@@ -31,7 +31,7 @@ We introduce a public, hand-collected organizational-structure database covering
 > 
 > *We have endeavored to limit these errors but recognize the database is not error free.*
 
-> *To the fullest extent permitted by law, the maintainers and contributors disclaim all warranties, whether expressed or implied (including but not limited to accuracy, completeness, merchantability, fitness for a particular purpose, and non-infringement). We will not be liable for any claim, loss, or damages arising from use of or reliance on the data. Users assume all risk.*
+> *To the fullest extent permitted by law, the maintainers and contributors disclaim all warranties, whether expressed or implied (including but not limited to accuracy, completeness, merchantability, fitness for a particular purpose, and noninfringement), and shall not be liable for any direct, indirect, incidental, consequential, or special damages arising from use of the database.*
 
 > *Public use or distribution of a substantial portion or derivative work from the database requires clear acknowledgment of **{{ site.ack_source | default: "XXXX" }}** as the source.*
 
@@ -39,8 +39,8 @@ The dataset is larger than the dataset used in the accompanying Strategic Manage
 You can read the accompanying paper here: [https://sms.onlinelibrary.wiley.com/doi/10.1002/smj.70029](https://sms.onlinelibrary.wiley.com/doi/10.1002/smj.70029)
 
 ## Downloads
-- [CSV (master_SP500_TMT.csv)]({{ "/data/master_SP500_TMT.csv" | absolute_url }}){: .btn download="master_SP500_TMT.csv" type="text/csv" }
-- [Stata (.dta)](https://github.com/OrganizationDesign/homepage/releases/download/v1.0/20251027_612.firms.database.to.2020.1.dta){: .btn }
+- [CSV (20260721_OD_Database_1993_2024.csv)]({{ "/data/20260721_OD_Database_1993_2024.csv" | absolute_url }}){: .btn download="20260721_OD_Database_1993_2024.csv" type="text/csv" }
+- [Stata (.dta)](https://github.com/OrganizationDesign/homepage/releases/download/v20260721/20260721_OD_Database_1993_2024.dta){: .btn download="20260721_OD_Database_1993_2024.dta" type="application/octet-stream" }
 
 > **Note:** If downloading .csv file to Stata use `bindquote(strict)` option
   
