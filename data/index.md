@@ -4,6 +4,7 @@ title: Data Downloads
 permalink: /data/
 ---
 # Data Downloads
+
 <ul>
 {% assign files = site.static_files 
   | where_exp: "f", "f.path contains '/data/'" 
@@ -18,7 +19,11 @@ permalink: /data/
          Stata (.dta)
       </a>
     {% else %}
-      <a href="{{ f.path | relative_url }}">{{ f.name }}</a>
+      <a class="btn"
+         href="{{ f.path | relative_url }}"
+         download="{{ f.name }}">
+         {{ f.name }}
+      </a>
     {% endif %}
   </li>
 {% endfor %}
