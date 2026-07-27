@@ -9,6 +9,17 @@ permalink: /data/
   | where_exp: "f", "f.path contains '/data/'" 
   | where_exp: "f", "f.name != 'index.md'" %}
 {% for f in files %}
-  <li><a href="{{ f.path | relative_url }}">{{ f.name }}</a></li>
+  <li>
+    {% if f.extname == ".dta" %}
+      <a class="btn"
+         href="https://github.com/OrganizationDesign/homepage/releases/download/v20260721/20260721_OD_Database_1993_2024.dta"
+         download="20260721_OD_Database_1993_2024.dta"
+         type="application/octet-stream">
+         Stata (.dta)
+      </a>
+    {% else %}
+      <a href="{{ f.path | relative_url }}">{{ f.name }}</a>
+    {% endif %}
+  </li>
 {% endfor %}
 </ul>
